@@ -1,5 +1,10 @@
 ## PlioMIP2 Summary - April 11, 2024
 
+### Overview
+The objective of this analysis is to compare upper ocean warming patterns observed in the PlioMIP2 simulations with available proxy reconstructions of upper ocean temperatures for the Pliocene. The analysis primarily focuses on the equatorial region.
+This analysis encompasses the creation of various equatorial plots showcasing distinct aspects found across different simulations. Examples include plots illustrating individual model performance, Multimodel Mean (MMM) performance, cluster analysis featuring MMM clusters, global sea-surface temperature (SST) anomalies, and depth vs. latitude plots. 
+By examining these plots, we aim to gain insights into the agreement and discrepancies between model simulations and proxy reconstructions, shedding light on the accuracy and reliability of the simulated upper ocean warming patterns during the Pliocene epoch.
+
 ### File Organization:
 
 #### Folders:
