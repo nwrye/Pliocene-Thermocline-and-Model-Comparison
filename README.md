@@ -13,14 +13,6 @@ By examining these plots, we aim to gain insights into the agreement and discrep
 *Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/Preprocessing Notebooks`  
 Contains model preprocessing scripts, original Excel files for proxy data preprocessing, and a final .nc file with the preprocessed proxy data results.
 
-**Preprocessing Model Files:**  
-*Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/Preprocessed Model Files`  
-Holds all models, including MMM, and sliced (-2, 2 lat, and depth) .nc files used in the main notebooks.
-
-**Plot Images:**  
-*Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/Plot Images`  
-This directory contains images for the final study.
-
 **PlioMIP2_EquatorV#:**  
 *Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/PlioMIP2_Equator_V#`  
 Houses main notebooks for creating proxy data comparison plots and analysis. Versions 4 and 5 are nearly identical, with the fifth stripped of experimental and data checks.
@@ -28,10 +20,6 @@ Houses main notebooks for creating proxy data comparison plots and analysis. Ver
 **Finished Depth and Temp Plots:**  
 *Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/Finished Depth and Temp Plots`  
 Contains finished depth vs. Lat and global SST plots.
-
-**Equator Anomaly Files:**  
-*Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/Equator Anomaly Files`  
-Holds all models, excluding MMM, with anomaly data (zonal/horizontal difference function applied) to avoid recalculation in main notebooks.
 
 #### Notebook Paths:
 
@@ -83,6 +71,15 @@ Polished version of V3, includes distortion analysis.
 
 **PlioMIP2_Equator_V5:**  
 Verified methods, should be the final version.
+
+**Final_Lat_Depth_TEMP_Plots.ipynb:**  
+This notebook contains scripts for generating final plots showcasing the relationship between latitude, depth, and temperature. These plots are essential for visualizing the distribution of temperature across different latitudes and depths.
+
+**Final_Global_SST_Plots.ipynb:**  
+In this notebook, you'll find scripts for creating final plots illustrating global sea-surface temperature (SST) patterns. These plots offer insights into the overall distribution and variability of SST across the globe.
+
+**OceanTEMP_Plots.ipynb:**  
+This notebook includes scripts for preprocessing ocean temperature data. It contains various preprocessing techniques and data manipulation steps aimed at preparing the ocean temperature data for further analysis and visualization.
 
 ### Final Images and Notebooks:
 
