@@ -1,4 +1,4 @@
-## PlioMIP2 Summary - April 11, 2024
+## PlioMIP2 Summary - April 16, 2024
 
 ### Overview
 The objective of this analysis is to compare upper ocean warming patterns observed in the PlioMIP2 simulations with available proxy reconstructions of upper ocean temperatures for the Pliocene. The analysis primarily focuses on the equatorial region.
@@ -10,27 +10,13 @@ By examining these plots, we aim to gain insights into the agreement and discrep
 #### Folders:
 
 **Preprocessing Notebooks:**  
-*Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/Preprocessing Notebooks`  
 Contains model preprocessing scripts, original Excel files for proxy data preprocessing, and a final .nc file with the preprocessed proxy data results.
 
 **PlioMIP2_EquatorV#:**  
-*Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/PlioMIP2_Equator_V#`  
 Houses main notebooks for creating proxy data comparison plots and analysis. Versions 4 and 5 are nearly identical, with the fifth stripped of experimental and data checks.
 
-**Finished Depth and Temp Plots:**  
-*Path:* `/glade/u/home/nwrye/OceanTemps_Compiles/Finished Depth and Temp Plots`  
+**Finished Depth and Temp Plots:**   
 Contains finished depth vs. Lat and global SST plots.
-
-#### Notebook Paths:
-
-- PlioMIP2_Equator_V1.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/PlioMIP2_Equator_V#/PlioMIP2_Equator_V1.ipynb`
-- PlioMIP2_Equator_V2.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/PlioMIP2_Equator_V#/PlioMIP2_Equator_V2.ipynb`
-- PlioMIP2_Equator_V3.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/PlioMIP2_Equator_V#/PlioMIP2_Equator_V3.ipynb`
-- PlioMIP2_Equator_V4.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/PlioMIP2_Equator_V#/PlioMIP2_Equator_V4.ipynb`
-- PlioMIP2_Equator_V5.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/PlioMIP2_Equator_V#/PlioMIP2_Equator_V5.ipynb`
-- Final_Lat_Depth_TEMP_Plots.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/Finished Depth and Temp Plots/Final_Lat_Depth_TEMP_Plots.ipynb`
-- Final_Global_SST_Plots.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/Finished Depth and Temp Plots/Final_Global_SST_Plots.ipynb`
-- OceanTEMP_Plots.ipynb → `/glade/u/home/nwrye/OceanTemps_Compiles/Preprocessing Notebooks/OceanTEMP_Plots.ipynb`
 
 #### Notebook Descriptions:
 
@@ -43,7 +29,7 @@ The initial main notebook of the project. Contains plots manipulated in V2 for f
 - Unnecessary calculations and lengthy code.
 
 **PlioMIP2_Equator_V2:**  
-Improved version of V1, currently the main notebook. Still refining reliable bias values, but should be easier due to improved data structure.
+Improved version of V1 with correct values.
 
 *Improvements:*  
 - No creation of anomaly files; done in V1.
