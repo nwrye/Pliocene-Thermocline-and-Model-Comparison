@@ -1,4 +1,4 @@
-## PlioMIP2 Summary - April 16, 2024
+## PlioMIP2 Summary - November 15th, 2024
 
 ### Overview
 The objective of this analysis is to compare upper ocean warming patterns observed in the PlioMIP2 simulations with available proxy reconstructions of upper ocean temperatures for the Pliocene. The analysis primarily focuses on the equatorial region.
@@ -12,51 +12,13 @@ By examining these plots, we aim to gain insights into the agreement and discrep
 **Preprocessing Notebooks:**  
 Contains model preprocessing scripts, original Excel files for proxy data preprocessing, and a final .nc file with the preprocessed proxy data results.
 
-**PlioMIP2_EquatorV#:**  
-Houses main notebooks for creating proxy data comparison plots and analysis. Versions 4 and 5 are nearly identical, with the fifth stripped of experimental and data checks.
-
 **Finished Depth and Temp Plots:**   
 Contains finished depth vs. Lat and global SST plots.
 
 #### Notebook Descriptions:
 
-**PlioMIP2_Equator_V1:**  
-The initial main notebook of the project. Contains plots manipulated in V2 for final plots.
-
-*Pitfalls:*  
-- Includes RSME values and unreliable bias values.
-- Coding with bias and RSME calculations is hard to understand.
-- Unnecessary calculations and lengthy code.
-
-**PlioMIP2_Equator_V2:**  
-Improved version of V1 with correct values.
-
-*Improvements:*  
-- No creation of anomaly files; done in V1.
-- Streamlined plotting of RGBA values.
-- Removed RSME analysis.
-- Added bias values to plots.
-- K-Cluster analysis included.
-- Logical reorganization of cells.
-- Shapiro-Wilks test added for gaussian distributions.
-
-**PlioMIP2_Equator_V3:**  
-Obtains correct values and plots.
-
-*Improvements:*  
-- Resized colorbar.
-- Computed Silhouette Scores.
-- Created bias-only plots.
-
-**PlioMIP2_Equator_V4:**  
-Polished version of V3, includes distortion analysis.
-
-*Improvements:*  
-- Added distortion method for clustering.
-- Figures and plots saved in pdf format.
-
 **PlioMIP2_Equator_V5:**  
-Verified methods, should be the final version.
+Contains main analysis and figures.
 
 **Final_Lat_Depth_TEMP_Plots.ipynb:**  
 This notebook contains scripts for generating final plots showcasing the relationship between latitude, depth, and temperature. These plots are essential for visualizing the distribution of temperature across different latitudes and depths.
@@ -69,4 +31,4 @@ This notebook includes scripts for preprocessing ocean temperature data. It cont
 
 ### Final Images and Notebooks:
 
-The finished images and notebooks are in the GitHub repository under their respective names. For any questions about them or the organization, feel free to reach out!
+The finished images and notebooks are in the GitHub repository under their respective names. For any questions about them or the organization, feel free to reach out (nwrye@gmu.edu or Nikolas.S.Wrye@nga.mil)!
