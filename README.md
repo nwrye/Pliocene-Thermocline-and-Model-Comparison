@@ -1,4 +1,4 @@
-## PlioMIP2 Summary - November 15th, 2024
+## Pliocene Thermocline and Model Comparison Code and Analysis Summary - November 15th, 2024
 
 ### Overview
 The objective of this analysis is to compare upper ocean warming patterns observed in the PlioMIP2 simulations with available proxy reconstructions of upper ocean temperatures for the Pliocene. The analysis primarily focuses on the equatorial region.
