@@ -1,5 +1,5 @@
 # **Pliocene Thermocline and Model Comparison Code and Analysis Summary**  
-**Date: November 22, 2024**
+**Last Updated: 22 November, 2024**
 
 ## **Overview**  
 This repository contains the code and analysis for comparing upper ocean warming patterns observed in the PlioMIP2 simulations with proxy reconstructions of Pliocene upper ocean temperatures. The focus is primarily on the equatorial region.  
