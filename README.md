@@ -8,7 +8,7 @@ Key objectives include:
 - Creating equatorial plots to explore patterns across different simulations.  
 - Comparing individual model performance, Multimodel Mean (MMM) performance, and cluster analysis results.  
 - Visualizing global sea-surface temperature (SST) anomalies and depth vs. latitude profiles.
-- Conducting Principle Component Analysis (PCA) to comapre EOF loadings between models to identify and explain spatial patterns.
+- Conducting Principle Component Analysis (PCA) to compare EOF loadings between models to identify, explain, and group spatial patterns between models.
 
 This analysis seeks to identify agreements and discrepancies between simulated results and proxy reconstructions, offering insights into the accuracy and reliability of Pliocene epoch upper ocean warming models.  
 
