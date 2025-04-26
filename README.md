@@ -1,5 +1,5 @@
 # **Pliocene Thermocline and Model Comparison Code and Analysis Summary**  
-**Last Updated: 22 November, 2024**
+**Last Updated: 26 April, 2025**
 
 ## **Overview**  
 This repository contains the code and analysis for comparing upper ocean warming patterns observed in the PlioMIP2 simulations with proxy reconstructions of Pliocene upper ocean temperatures. The focus is primarily on the equatorial region.  
@@ -7,7 +7,8 @@ This repository contains the code and analysis for comparing upper ocean warming
 Key objectives include:  
 - Creating equatorial plots to explore patterns across different simulations.  
 - Comparing individual model performance, Multimodel Mean (MMM) performance, and cluster analysis results.  
-- Visualizing global sea-surface temperature (SST) anomalies and depth vs. latitude profiles.  
+- Visualizing global sea-surface temperature (SST) anomalies and depth vs. latitude profiles.
+- Conducting Principle Component Analysis (PCA) to comapre EOF loadings between models to identify and explain spatial patterns.
 
 This analysis seeks to identify agreements and discrepancies between simulated results and proxy reconstructions, offering insights into the accuracy and reliability of Pliocene epoch upper ocean warming models.  
 
@@ -59,6 +60,9 @@ This analysis seeks to identify agreements and discrepancies between simulated r
 
 - **`OceanTEMP_Plots.ipynb`**  
   - Includes preprocessing scripts for ocean temperature data.
+ 
+- **`PCA.ipynb`**
+  - Contains the code for conducting the PCA in the study.
 
 ---
 
