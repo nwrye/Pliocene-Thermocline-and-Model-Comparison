@@ -18,8 +18,8 @@ This analysis seeks to identify agreements and discrepancies between simulated r
 
 ### **Folders**  
 
-- **`Full Jupyter Notebooks`**  
-  - Contains scripts for model preprocessing, proxy data processing, and generating analysis-ready `.nc` files.
+- **`Jupyter Notebooks`**  
+  - Contains the full code/scripts for model preprocessing, proxy data processing, and generating analysis-ready `.nc` files.
 
 - **`Silhouette and Elbow Plots`**  
   - Includes silhouette analysis and elbow plots for K-means clustering evaluation.
