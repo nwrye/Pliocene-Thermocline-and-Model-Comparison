@@ -1,5 +1,5 @@
 # **Pliocene Thermocline and Model Comparison Code and Analysis Summary**  
-**Last Updated: 26 April, 2025**
+**Last Updated: 03 May, 2025**
 
 ## **Overview**  
 This repository contains the code and analysis for comparing upper ocean warming patterns observed in the PlioMIP2 simulations with proxy reconstructions of Pliocene upper ocean temperatures. The focus is primarily on the equatorial region.  
@@ -18,7 +18,7 @@ This analysis seeks to identify agreements and discrepancies between simulated r
 
 ### **Folders**  
 
-- **`Jupyter Notebooks`**  
+- **`Full Jupyter Notebooks`**  
   - Contains scripts for model preprocessing, proxy data processing, and generating analysis-ready `.nc` files.
 
 - **`Silhouette and Elbow Plots`**  
@@ -41,7 +41,9 @@ This analysis seeks to identify agreements and discrepancies between simulated r
 
 - **`Individual Model Plots`**  
   - Contains figures for each model used in the study.
-
+ 
+- **`Plotting Notebooks`**  
+  - Contains the code used to create the plots for the study and supplemental figures.
 ---
 
 ### **Notebooks**  
