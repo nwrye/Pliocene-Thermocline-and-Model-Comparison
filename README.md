@@ -1,4 +1,4 @@
-# **Pliocene Thermocline and Model Comparison Code and Analysis Summary**  
+# **Equatorial Upper Ocean Thermal Structure during the Warm Pliocene: a Data-Model Comparison**  
 **Last Updated: 03 May, 2025**
 
 ## **Overview**  
